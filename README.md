@@ -1,0 +1,2 @@
+# KCK
+projekt interfejsu użytkownika 
